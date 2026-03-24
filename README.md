@@ -60,8 +60,17 @@ Yoga + meditation streaming platform with premium video content.
 ---
 
 ## 🧑‍💼 Experience
+Sr. Mobile Application Developer - Seraphic info Solution (December 2025 – Present)
+- Developed and maintained multi-platform apps in Flutter and Kotlin.
+- Built a scalable Android application with Jetpack Compose, Kotlin, and StateFlow (CRM).
+- Collaborated directly with clients, managed requirements & deadlines.
 
-### **Sr. Mobile Developer – Codeflies, Noida (2022–2025)**
+### ** Sr. Mobile Application Developer - Smart Click, Mohali (July 2025 – December 2025)
+- Developed and maintained multi-platform apps in Flutter and Kotlin.
+- Integrated Stripe, Firebase Auth, and real-time Firestore data.
+- Built modern declarative UIs with Jetpack Compose.
+
+### **Freelance Mobile Application Developer (Android + Flutter)  –  (Oct 2022– May2025)**
 - Built multi-platform apps using Kotlin + Flutter
 - Integrated Stripe, Firebase Auth, Firestore live updates
 - Modern UI with Jetpack Compose
